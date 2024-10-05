@@ -22,10 +22,10 @@ This is a **Word Counter** application created using **HTML, CSS, and JavaScript
 
 ## Preview:
 
-You can try the word counter by visiting [Live Demo Link](#). *(Replace this with your actual demo link)*
+You can try the word counter by visiting [Live Demo Link](#). *(https://rizwan2005khan.github.io/word-counter/)*
 
 ## Installation:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/word-counter.git
+    git clone https://github.com/Rizwan2005khan/word-counter.git
